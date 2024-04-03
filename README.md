@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alt-purple
 - 👀 I’m interested in ... Single-board computer applications, electronics and communications. 
-- 🌱 I’m currently learning ...GitHub! I was pointed in this direction by others.  
+- 🌱 I’m currently learning ...GitHub! Following along in Github for Dummies book, 2nd ed.  
 - 💞️ I’m looking to collaborate on ... STEM programs or CubeSat projects where I can give back some of my experience and learning. 
 - 📫 How to reach me ... GitHub Discussions
 - 😄 Pronouns: ...he/him
